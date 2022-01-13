@@ -1,5 +1,5 @@
 def f1():
-	pass
+	print("hello")
 
 def f2():
 	pass
